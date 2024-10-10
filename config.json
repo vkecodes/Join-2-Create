@@ -1,0 +1,5 @@
+{
+    "TOKEN": "Your Bot Token",
+    "guild_id": Guild ID here,
+    "vc_channel_id": Vc Channel ID here
+}
