@@ -8,3 +8,5 @@ Made by sexy.vke on Discord, hit me up for coding requests. (PAID)
 ```
 
 If you DM me for setup, I will ignore you.
+
+You must have https://python.org and the requirements.txt to use this!
